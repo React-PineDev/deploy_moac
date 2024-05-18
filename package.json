@@ -1,6 +1,7 @@
 {
     "name": "deploy_moac",
     "private": true,
+    "homepage": "https://github.com/React-PineDev/deploy_moac",
     "version": "1.0.0",
     "type": "module",
     "dependencies": {
